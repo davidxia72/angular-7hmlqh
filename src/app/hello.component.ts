@@ -10,7 +10,7 @@ import{DataService} from './data.service'
   <br>
   <br>
   <a (click)="router.navigate(['/nofun']);"
-     class="btn btn-warning">Try Me on testing
+     class="btn btn-warning">Try Me on testing 1
   </a>`,
   styles: [`h1 { font-family: Lato; }`],
   providers: [DataService]
